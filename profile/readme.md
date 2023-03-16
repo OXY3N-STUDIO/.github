@@ -37,10 +37,10 @@ We are programmers and graphic designers with extensive experience and we are ju
 <br/>
 
 ### OXY3N STUDIO
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxy3nstudio&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxy3nstudio&langs_count=15&layout=compact&theme=synthwave" align="center" /></div>
 
 ### IOxee
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IOxee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=15&layout=compact&theme=synthwave" align="center" /></div>
 
 <br/>
 <br/>
